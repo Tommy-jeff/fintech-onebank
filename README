@@ -1,0 +1,19 @@
+OneBank Fintech - Páginas Web
+
+Este projeto consiste na criação de páginas web para a fintech OneBank, como parte de um trabalho acadêmico. As páginas são desenvolvidas utilizando HTML, estilizadas com CSS e contam com o auxílio do framework Bootstrap.
+
+Requisitos:
+
+- Conexão com a internet.
+- Visual Studio Code (recomendado) ou qualquer outro editor de texto.
+- Extensão Live Server instalada no Visual Studio Code (ou um servidor local/simulador similar).
+
+Executando o Projeto:
+
+- Clone este repositório em sua máquina local.
+- Abra o Visual Studio Code (ou seu editor de texto preferido) e navegue até a pasta do projeto.
+- Inicie o Live Server (ou outro servidor local/simulador similar) para visualizar as páginas web no navegador.
+
+Contribuição:
+
+Este projeto é apenas para fins acadêmicos e não requer contribuições adicionais. No entanto, você é bem-vindo(a) a deixar comentários ou sugestões no código.
