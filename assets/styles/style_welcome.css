@@ -1,0 +1,63 @@
+*{
+    font-family: 'Red Hat Display', sans-serif;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+:root{
+    --dark-color: #152D73;
+    --brand-color: #60A5FA;
+    --mid-color: #D4D4D8;
+    --light-color: #ffffff;
+}
+
+body{
+    background-image: url(../images/backgraund_welcome_page.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.fonte-logo{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.my-bg-color-dark{
+    background-color: var(--dark-color);
+    color: var(--light-color);
+}
+
+.my-bg-color-brand{
+    background-color: var(--brand-color);
+    color: var(--dark-color);
+}
+
+.my-bg-color-mid{
+    background-color: var(--light-color);
+    color: var(--dark-color);
+}
+
+.my-bg-color-light{
+    background-color: var(--light-color);
+    color: var(--dark-color);
+}
+
+.my-btn{
+    display: flex;
+    border: 1px solid var(--light-color);
+    border-radius: 5px;
+    background-color: transparent;
+    color: var(--light-color);
+    transition: .3s;
+    
+}
+
+.my-btn:hover{
+    border: 1px solid var(--light-color);
+    border-radius: 15px;
+}

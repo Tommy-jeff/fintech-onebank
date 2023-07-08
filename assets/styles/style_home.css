@@ -1,0 +1,80 @@
+*{
+    font-family: 'Red Hat Display', sans-serif;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+a{
+text-decoration: none;
+}
+
+:root{
+--dark-color: #152D73;
+--brand-color: #60A5FA;
+--mid-color: #D4D4D8;
+--light-color: #ffffff;
+}
+
+body{
+    background-color: var(--dark-color);
+}
+
+.fonte-logo-lg{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 45px;
+    font-weight: 500;
+    color: var(--dark-color);
+}
+
+.fonte-logo-sm{
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 25px;
+    font-weight: 500;
+    color: var(--dark-color);
+}
+
+.my-bg-color-dark{
+    background-color: var(--dark-color);
+    color: var(--light-color);
+}
+
+.my-bg-color-brand{
+    background-color: var(--brand-color);
+    color: var(--dark-color);
+}
+.my-color-brand{
+    color: var(--brand-color);
+}
+
+.my-bg-color-mid{
+    background-color: var(--light-color);
+    color: var(--dark-color);
+}
+
+.my-bg-color-light{
+    background-color: var(--light-color);
+    color: var(--dark-color);
+}
+
+.saldo{
+    box-shadow: 0px 0px 10px gray;
+}
+
+.drop-lanc{
+    background-color: transparent;
+    border: transparent;   
+}
+
+.ft-white{
+    color: var(--light-color);
+}
+
+.table-color{
+    background-color: var(--brand-color);
+    color: var(--dark-color)
+}
+
+.ft-footer{
+    font-size: 20px;
+    color: var(--light-color);
+}
